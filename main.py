@@ -86,6 +86,8 @@ def main():
     with open(file_dir, "wb") as fp:
         writer.write(fp)
 
+    input(success_message)
+
 if __name__ == "__main__":
     try:
         main()
