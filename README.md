@@ -31,7 +31,7 @@ Then open a terminal and navigate to the working directory. Run the following
 command to install the dependencies:
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Finally, run the following command to launch the application:
